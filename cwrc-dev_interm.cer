@@ -1,0 +1,9 @@
+-----BEGIN CERTIFICATE-----
+Intermediate cert 1
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+Intermediate cert 2 (if needed)
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+Root CA Cert Here
+----END CERTIFICATE-----

@@ -1,0 +1,11 @@
+allowed_cidr = ["0.0.0.0/0"]
+ssh_access = [<ip addresses for ssh access (if needed)>]
+ecs_ec2_image_id      = "ami-0ae3143bc8c29507d"
+ecs_ec2_instance_type = "t3.large"
+ecs_ec2_desired_capacity   = 1
+ecs_ec2_max_size           = 1
+ecs_ec2_min_size           = 0
+ecs_vpc = <your vpc id>
+ecs_subnet_one_public = <your public subnet 1>
+ecs_subnet_two_public = <your public subnet 2>
+ecs_keypair = <aws keypair>
